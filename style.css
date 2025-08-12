@@ -12,8 +12,9 @@ body {
   transition: background 0.4s ease;
 }
 
+
 body.light {
-  background: linear-gradient(135deg, #fceabb, #f8b500);
+  background: linear-gradient(135deg, #ffffff, #ffffff);
   color: black;
 }
 
@@ -101,3 +102,4 @@ button:hover {
   font-size: 48px;
   margin-bottom: 10px;
 }
+
